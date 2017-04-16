@@ -1,7 +1,7 @@
-# dsg17
+# DataScienceGame 2017
 Took the data from "input.csv"
 
-## How to process it?
+## How to process it?
 
 * Genre_id, media_id, album_id, user_id, artist_id -> aggregate (e.g. count)
 * Ts_listen, release_date: date under 2 different formats -> put to same format
