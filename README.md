@@ -1,5 +1,8 @@
 # DataScienceGame 2017
-Took the data from "input.csv"
+
+data: https://drive.google.com/drive/folders/0B5_VOL6s8O6KWUd0dlI5OVRjYlk
+progress: https://docs.google.com/document/d/19pQ7JyAXz3eZqGScN1xRQMPy_O5toEOogACMAC68Hkk/edit
+description: https://docs.google.com/document/d/17dUl1nUFY0xhoZRMrhk3FI0uY5JJRTaIU-bs9tWob0c/edit
 
 ## How to process it?
 
