@@ -1,10 +1,9 @@
 # DataScienceGame 2017
 
-data: https://drive.google.com/drive/folders/0B5_VOL6s8O6KWUd0dlI5OVRjYlk
-
-progress: https://docs.google.com/document/d/19pQ7JyAXz3eZqGScN1xRQMPy_O5toEOogACMAC68Hkk/edit
-
-description: https://docs.google.com/document/d/17dUl1nUFY0xhoZRMrhk3FI0uY5JJRTaIU-bs9tWob0c/edit
+data: https://drive.google.com/drive/folders/0B5_VOL6s8O6KWUd0dlI5OVRjYlk<br>
+progress: https://docs.google.com/document/d/19pQ7JyAXz3eZqGScN1xRQMPy_O5toEOogACMAC68Hkk/edit<br>
+description: https://docs.google.com/document/d/17dUl1nUFY0xhoZRMrhk3FI0uY5JJRTaIU-bs9tWob0c/edit<br>
+Kaggle: https://inclass.kaggle.com/c/dsg17-online-phase/<br>
 
 
 ## How to process it?
